@@ -1,8 +1,8 @@
-﻿using Dalamud.Configuration;
+﻿using System;
+using Dalamud.Configuration;
 using Dalamud.Plugin;
-using System;
 
-namespace SamplePlugin
+namespace Playground
 {
     [Serializable]
     public class Configuration : IPluginConfiguration

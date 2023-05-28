@@ -1,0 +1,15 @@
+{
+    "Author": "SayuShira",
+    "Name": "Playground",
+    "Punchline": "Just my playground!",
+    "Description": "I'm playing here, go somewhere else =)",
+    "InternalName": "playground",
+    "ApplicableVersion": "any",
+    "Tags": [
+        "sample",
+        "plugin",
+        "goats",
+        "playing with goats",
+        "playground"
+    ]
+}
